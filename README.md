@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img alt="Logo" src="./public/image/logo.png" height="40px">&nbsp;<span>Brewing Houses</span>
-</h1>
+  <img alt="Logo" src="./public/image/logotype.png" width="500px">
 
 <h3 align="center">
   The NextJS app for React to find your brewing houses.
@@ -43,15 +42,14 @@
 
 ## 💇🏼 About the project
 
-This application was part of an exercise given in class to establish knowledge of resources and
-functions for rendering information in a Next Web application.
+This application was part of a challenge to test the ability to implement features functions and render information within a ReactJS / NextJS web application.
 
 ## 📸 Sreenshots
 
 Images of the application in operation.
 
 <p align="center">
-<img alt="ScreenShot01" src="https://res.cloudinary.com/dvargas42/image/upload/v1623255426/brewing-houses/bhfront01_tyjdru.pngg" width="400px">
+<img alt="ScreenShot01" src="https://res.cloudinary.com/dvargas42/image/upload/v1623255426/brewing-houses/bhfront01_tyjdru.png" width="400px">
 <img alt="ScreenShot01" src="https://res.cloudinary.com/dvargas42/image/upload/v1623255427/brewing-houses/bhmodal01_fgoeur.png" width="400px">
 </p>
 
