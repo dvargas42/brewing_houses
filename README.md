@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Logo" src="./public/image/logotype.png" width="500px">
+  <img alt="Logo" src="./public/image/logotype.png" width="700px">
 
 <h3 align="center">
   The NextJS app for React to find your brewing houses.
